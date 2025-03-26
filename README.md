@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Abderraouf Lahmar]  
+# 👋 Hi, I’m Abderraouf Lahmar  
 ### **AI Researcher | Machine Learning Engineer**  
 
 🔭 **Currently working on:** LLM distillation, RL, and efficient AI models.  
@@ -21,5 +21,3 @@
 ## **📊 GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderraouf-000&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abderraouf-000&layout=compact)  
-
----
