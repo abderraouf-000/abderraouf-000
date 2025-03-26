@@ -8,9 +8,7 @@
 
 ---
 
-## **📄 My CV / Résumé**  
-📥 Download my latest CV: **[PDF](https://github.com/abderraouf-000/abderraouf-000/cv.pdf)**  
----
+## **📄 My CV / Résumé** **[PDF](https://github.com/abderraouf-000/abderraouf-000/cv.pdf)**  
 
 ## **🛠️ Tech Stack**  
 **Languages:** Python, C, C++, JavaScript.  
