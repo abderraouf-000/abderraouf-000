@@ -4,7 +4,7 @@
 🔭 **Currently working on:** LLM distillation, RL, and efficient AI models.  
 🌱 **Learning:** Advanced NLP techniques and scalable ML systems.  
 💬 **Ask me about:** LLMs, knowledge distillation, Python, PyTorch.  
-📫 **How to reach me:** [Your Email](abderraouf.lahmar74@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abderraouf-lahmar-b24995292/)  
+📫 **How to reach me:** [Email](abderraouf.lahmar74@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abderraouf-lahmar-b24995292/)  
 
 ---
 
