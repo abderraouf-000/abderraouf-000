@@ -3,17 +3,11 @@
 
 🔭 **Currently working on:** LLM distillation, RL, and efficient AI models.  
 🌱 **Learning:** Advanced NLP techniques and scalable ML systems.  
-💬 **Ask me about:** LLMs, knowledge distillation, Python, PyTorch.  
 📫 **How to reach me:** [Email](abderraouf.lahmar74@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abderraouf-lahmar-b24995292/)  
 
 ---
 
-## **📄 My CV / Résumé** **[PDF](https://github.com/abderraouf-000/abderraouf-000/blob/main/cv.pdf)**  
-
-## **🛠️ Tech Stack**  
-**Languages:** Python, C, C++, JavaScript.  
-**ML/DL:** PyTorch, HuggingFace.   
-
+## **My CV** **[PDF](https://github.com/abderraouf-000/abderraouf-000/blob/main/cv.pdf)**  
 ---
 
 ## **📊 GitHub Stats**  
